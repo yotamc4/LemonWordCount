@@ -5,8 +5,10 @@
   2. From terminal (with root directory set to '..\WordStatisticsApi') run 'python    Installation.py' (this will install required packages using pip).
 
 ### Run the API:
-  From terminal (with root directory set to '..\WordStatisticsApi') run 'python
-  sources/Endpoint.py' or 'python sources/Endpoint.py <*explicit port*> <*explicit host*>'. 
+  From terminal (with root directory set to '..\WordStatisticsApi') 
+  
+  run python sources/Endpoint.py or 'python sources/Endpoint.py <*explicit port*> <*explicit host*>'. 
+  
   default port and host are 5000 and localhost.
 
 ## Word Counter EP:
